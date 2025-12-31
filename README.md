@@ -6,11 +6,17 @@
 
 ## 🔧 Skills
 **Programming:** Python, SQL
+
 **Data Preparation:** DataFrame construction, data labeling, feature engineering, feature extraction
+
 **Machine Learning:** Scikit-learn, TensorFlow / PyTorch
+
 **Computer Vision:** OpenCV, Image Processing, Pattern Recognition
+
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+
 **Modeling:** Regression, Classification, Time Series Forecasting, Ensemble Learning, Deep Learning
+
 **Domain Knowledge:** Healthcare, Pharmaceutical Data, Biomedical Data
 
 ## 📌 Featured Projects

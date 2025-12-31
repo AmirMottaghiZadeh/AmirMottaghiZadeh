@@ -86,7 +86,7 @@ _Strong_ in **DataFrame construction, data labeling, and feature engineering**
 <summary><b>More details (click)</b></summary>
 
 ## 📫 Contact
-- telegram: **@amir_mtz**
+- telegram: **https://t.me/amir_mtz**
 
 </details>
 

@@ -58,17 +58,5 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirMottaghiZadeh&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMottaghiZadeh&layout=compact" />
-</p>
-
----
-
 ## 📫 Contact
 - GitHub: **@AmirMottaghiZadeh**

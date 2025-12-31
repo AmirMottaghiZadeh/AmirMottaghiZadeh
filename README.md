@@ -54,7 +54,8 @@
 ## 🚀 Featured Projects
 
 ### 👁️ Image-Based Signal Detection in Time-Series Data (OpenCV)
-** Image-based detection of meaningful patterns from time-series chart images.**
+
+**Image-based detection of meaningful patterns from time-series chart images.**
 
 - Computer vision pipeline for detecting meaningful patterns from time-series chart images  
 - Custom dataset construction and labeling from numerical signals  
@@ -66,7 +67,8 @@
 ---
 
 ### 🧪 Weekly Drug Sales Forecasting (Real-World Pharmacy Data)
-** Weekly demand forecasting on real-world pharmacy management backup data.**
+
+ **Weekly demand forecasting on real-world pharmacy management backup data.**
 
 - Weekly demand forecasting using real pharmacy management system backup data (Tebyan)  
 - Extensive data cleaning, DataFrame construction, and feature engineering  

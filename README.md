@@ -80,13 +80,11 @@
 <details>
 <summary><b>More details (click)</b></summary>
 
-- **Evaluation metrics:** MAE / RMSE / MAPE (depending on project)
-- **Feature engineering examples:** lag features, rolling statistics, calendar/seasonality signals
-- **Validation:** time-based split / walk-forward validation (when applicable)
+## 📫 Contact
+- telegram: **@amir_mtz**
 
 </details>
 
 ---
 
-## 📫 Contact
-- GitHub: **@AmirMottaghiZadeh**
+

@@ -28,7 +28,9 @@
 ## ✨ About Me
 
 _Pharmacist_ with expertise in **Data Science, Machine Learning & Computer Vision**
+
 _Focused on healthcare AI_, predictive modeling, and real-world data problems
+
 _Strong_ in **DataFrame construction, data labeling, and feature engineering**
 
 ---

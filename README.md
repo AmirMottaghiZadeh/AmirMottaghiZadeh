@@ -1,64 +1,71 @@
-<!-- =======================
-      PROFILE README
-======================== -->
-
-<!-- ===== SIMPLE HERO / BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=Amir%20MottaghiZadeh&fontSize=40&desc=Pharmacist%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=70" />
-</p>
-
-<!-- ===== TYPING (Black + Framed) ===== -->
-<table align="center" border="2" cellpadding="12" cellspacing="0">
+<!-- ===== ABOUT CARD ===== -->
+<table width="100%" cellpadding="14" cellspacing="0" border="1">
   <tr>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=900&color=000000&center=true&vCenter=true&width=900&lines=Healthcare+AI+%E2%80%A2+Time+Series+Forecasting+%E2%80%A2+Computer+Vision+(OpenCV);Real-world+data+%E2%86%92+Labeling+%E2%86%92+Feature+Engineering+%E2%86%92+Modeling+%E2%86%92+Evaluation" />
+      <h2>✨ About Me</h2>
+
+- 🎓 Pharmacist with expertise in **Data Science, Machine Learning & Computer Vision**
+- 🧠 Focused on healthcare AI, predictive modeling, and real-world data problems
+- 🧱 Strong in **DataFrame construction, data labeling, and feature engineering**
+
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## ✨ About Me
-Pharmacist with expertise in **Data Science, Machine Learning & Computer Vision**
+<!-- ===== SKILLS CARD ===== -->
+<table width="100%" cellpadding="14" cellspacing="0" border="1">
+  <tr>
+    <td>
+      <h2>🛠️ Technical Skills</h2>
 
-Focused on healthcare AI, predictive modeling, and real-world data problems
+<b>Programming:</b> <code>Python</code> <code>SQL</code><br/>
+<b>Data Preparation:</b> <code>DataFrame Construction</code> <code>Labeling</code> <code>Feature Engineering</code> <code>Feature Extraction</code><br/>
+<b>Machine Learning:</b> <code>Scikit-learn</code> <code>TensorFlow</code> <code>PyTorch</code> <code>XGBoost</code><br/>
+<b>Computer Vision:</b> <code>OpenCV</code> <code>Image Processing</code> <code>Pattern Recognition</code><br/>
+<b>Modeling:</b> <code>Regression</code> <code>Classification</code> <code>Time Series Forecasting</code> <code>Ensemble Learning</code> <code>Deep Learning</code><br/>
+<b>Domain:</b> <code>Healthcare</code> <code>Pharma</code> <code>Biomedical Data</code>
 
-Strong in **DataFrame construction, data labeling, and feature engineering**
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🛠️ Technical Skills
+<!-- ===== PROJECTS (CARDS) ===== -->
+<h2>🚀 Featured Projects</h2>
 
-**Programming:** Python, SQL  
-**Data Preparation:** DataFrame construction, data labeling, feature engineering, feature extraction  
-**Machine Learning:** Scikit-learn, TensorFlow / PyTorch, XGBoost  
-**Computer Vision:** OpenCV, Image Processing, Pattern Recognition  
-**Modeling:** Regression, Classification, Time Series Forecasting, Ensemble Learning, Deep Learning  
-**Domain Knowledge:** Healthcare, Pharmaceutical & Biomedical Data  
+<table width="100%" cellpadding="14" cellspacing="0" border="1">
+  <tr>
+    <td>
+      <h3>👁️ Image-Based Signal Detection in Time-Series Data (OpenCV)</h3>
 
----
-
-## 🚀 Featured Projects
-
-### 👁️ Image-Based Signal Detection in Time-Series Data (OpenCV)
-- Computer vision pipeline for detecting meaningful patterns from time-series chart images  
+- Computer vision pipeline for detecting meaningful visual patterns from time-series chart images  
 - Custom dataset construction and labeling from numerical signals  
 - Classical OpenCV techniques (edge detection, contour analysis, morphology)  
 - Robust extraction on noisy and non-stationary data  
 
-**Tech Stack:** Python, Pandas, OpenCV (Faster R-CNN)
+<b>Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>OpenCV</code> <code>Faster R-CNN</code>
 
----
+    </td>
+  </tr>
+</table>
 
-### 🧪 Weekly Drug Sales Forecasting (Real-World Pharmacy Data)
+<br/>
+
+<table width="100%" cellpadding="14" cellspacing="0" border="1">
+  <tr>
+    <td>
+      <h3>🧪 Weekly Drug Sales Forecasting (Real-World Pharmacy Data)</h3>
+
 - Weekly demand forecasting using real pharmacy management system backup data (Tebyan)  
 - Extensive data cleaning, DataFrame construction, and feature engineering  
 - Seasonality and temporal pattern modeling  
 - Time-series evaluation metrics  
 
-**Tech Stack:** Python, Pandas, Scikit-learn, XGBoost
+<b>Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>XGBoost</code>
 
----
-
-## 📫 Contact
-- GitHub: **@AmirMottaghiZadeh**
+    </td>
+  </tr>
+</table>
